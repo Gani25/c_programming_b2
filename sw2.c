@@ -34,3 +34,5 @@ int main()
         printf("Invalid day number\n");
     }
 }
+
+// check vowel or consonant using switch case
