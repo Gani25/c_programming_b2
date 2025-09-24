@@ -24,4 +24,9 @@ int main()
     }
 
     // display elements in reverse order
+    printf("\nElements in reverse order are: \n");
+    for (i = 4; i >= 0; i--)
+    {
+        printf("%d\t", arr[i]);
+    }
 }
