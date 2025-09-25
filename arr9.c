@@ -26,4 +26,10 @@ int main()
     printf("Even sum of elements = %d\n", evenSum);
 }
 
-// sort given array 5,1,7,9,3
+// From given array
+// 5, 1, 7, 9, 3
+// accept search element -> 9
+// element found at index 3
+
+// ex search = 10
+// element not found
