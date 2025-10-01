@@ -41,8 +41,3 @@ int main()
         printf("%d\t", arr[i]);
     }
 }
-
-// Find max and min element in given array
-// 5,100,-6,20,-25
-// min = -25
-// max = 100
